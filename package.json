@@ -1,5 +1,5 @@
 {
-	"name": "JakeBot",
+	"name": "weltBot",
 	"version": "12.5.9",
 	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
 	"main": "mirai.js",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/JakeAsunto/jakebot2.2.2"
+		"url": "https://github.com/RieBerry/weltbotbot2.1.2"
 	},
 	"keywords": [
 		"bot",
